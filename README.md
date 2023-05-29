@@ -1,10 +1,7 @@
 # Ramsom_DK_Ware
-## This is to new Ramsomware familiy
+## This is to new Ramsomware familiy 
 
 <img width="41%" align="right" alt="Github" src="https://github.com/dkb4rb/Ram_Dk_ware/blob/main/Icon.png" />
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Ramsom_DK_Ware 
 is a revolutionary cyber security tool designed to push boundaries and prepare organizations for the challenges of the digital world. With advanced features like a keylogger for real-time tracking of user activities, a reverseshell for remote access to target systems, file encryption with cutting-edge algorithms, and system persistence to resist removal attempts, mi ransomware offers deep insight into security and seeks to continually improve the security posture of organizations. In addition, it also tests the vulnerability of MikroTik devices, helping customers to better understand the risks and take preventive measures to protect their networks.
@@ -16,6 +13,7 @@ is a revolutionary cyber security tool designed to push boundaries and prepare o
 - Persistence
 - Hacking Mikrotik
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## License
 
 MIT
