@@ -7,7 +7,7 @@
 #include <openssl/err.h>
 #include "crypto.h"
 
-#define PORT 4433
+#define PORT 443
 
 int main() {
     SSL_CTX *ctx;
